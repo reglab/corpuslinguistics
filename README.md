@@ -2,21 +2,11 @@
 ## Peter Henderson, Daniel E. Ho, Andrea Vallebueno, Cassandra Handan-Nader
 
 This is the code repository for [Corpus Enigmas and Contradictory Linguistics: 
-Tensions Between Empirical Semantic Meaning and Judicial Interpretation](https://scholarship.law.umn.edu/mjlst/).
+Tensions Between Empirical Semantic Meaning and Judicial Interpretation](https://scholarship.law.umn.edu/mjlst/vol25/iss2/12/).
 
-Citation: (TBD)
-```
-@article{citation_key,
-  author = {Author Name},
-  title = {Article Title},
-  journal = {Journal Name},
-  year = {Year},
-  volume = {Volume},
-  number = {Number},
-  pages = {Pages},
-  doi = {DOI}
-}
-```
+**Citation:** Peter Henderson, Daniel E. Ho, Andrea Vallebueno & Cassandra Handan-Nader, 
+_Corpus Enigmas and Contradictory Linguistics: Tensions Between Empirical Semantic Meaning and Judicial Interpretation_, 
+25 Minn. J.L. Sci. & Tech. 127 (2024). Available at: https://scholarship.law.umn.edu/mjlst/vol25/iss2/12
 
 ## Set Up and Repository Structure
 We run our analyses on the Corpus of Historical American English (COHA), which was used in a
